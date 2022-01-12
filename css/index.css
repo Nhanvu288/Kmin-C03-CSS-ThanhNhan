@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: #3c3939;
+    padding: 15px 0;
+}
+
+a{
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+.active{
+    background-color: dodgerblue;
+}
+
+.item:hover{
+    background-color: tomato;
+}
+

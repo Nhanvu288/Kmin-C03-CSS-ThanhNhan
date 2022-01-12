@@ -1,0 +1,7 @@
+.box-default{
+    background-color: aqua;
+    width: 30%;
+    max-height: auto;    
+    margin: auto;
+    padding: 50px;
+}

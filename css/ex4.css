@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    background-image: linear-gradient(to right, #fcbf16, #992154);
+}
+
+h1 {
+    margin: 0;
+    padding-top: 50px ;
+    padding-bottom: 100px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+img {
+    border-radius: 50%;
+}
+

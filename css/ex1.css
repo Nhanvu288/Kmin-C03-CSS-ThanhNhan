@@ -1,0 +1,25 @@
+.text{
+    max-width: 60%;
+    text-align: justify;
+    font-size: 29px;
+}
+
+h1 {
+    color: tomato;
+    text-align: center;
+}
+
+h2 {
+    color: dodgerblue;
+    text-align: center;
+}
+
+
+
+img {
+    width: 20%;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
